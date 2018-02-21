@@ -1,0 +1,7 @@
+id=de
+name=Sound Fix
+version=v1
+versionCode=1
+author=OlfillasOdikno
+description=Remove startup sound from wiko wim-lite
+minMagisk=1500
